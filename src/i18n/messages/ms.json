@@ -1,0 +1,846 @@
+{
+  "meta": {
+    "siteName": "Olzytech Solutions",
+    "titleTemplate": "%s | Olzytech Solutions",
+    "defaultDescription": "Olzytech Solutions mereka dan membangunkan laman web yang pantas dan menarik, daripada keperluan pertama hingga ke pelancaran.",
+    "home": {
+      "title": "Reka Bentuk & Pembangunan Laman Web, Dari Keperluan Hingga Pelancaran",
+      "description": "Olzytech Solutions mereka, membangun dan melancarkan laman web serta aplikasi web yang pantas dan mesra SEO. Satu pasukan, satu proses, dari keperluan pertama hingga hari pelancaran."
+    },
+    "about": {
+      "title": "Tentang Kami",
+      "description": "Kenali Olzytech Solutions, pasukan web kecil yang berpengalaman, yang menukar keperluan anda kepada laman web yang pantas, cantik dan sedia untuk pengeluaran."
+    },
+    "showcase": {
+      "title": "Portfolio",
+      "description": "Pilihan laman web dan aplikasi web yang direka, dibangunkan dan dilancarkan oleh Olzytech Solutions."
+    },
+    "pricing": {
+      "title": "Harga",
+      "description": "Harga telus untuk pembangunan laman web, reka bentuk semula laman web dan papan pemuka analitik, dibahagikan kepada projek mudah, sederhana dan kompleks, untuk PKS dan syarikat permulaan di Malaysia, Singapura dan Hong Kong."
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "description": "Ceritakan projek anda kepada Olzytech Solutions. Kami membalas dalam satu hari bekerja dengan langkah seterusnya dan anggaran harga."
+    }
+  },
+  "common": {
+    "skipToContent": "Langkau ke kandungan",
+    "primaryNavigation": "Navigasi utama",
+    "nav": {
+      "home": "Utama",
+      "about": "Tentang",
+      "showcase": "Portfolio",
+      "pricing": "Harga",
+      "contact": "Hubungi"
+    },
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "language": "Bahasa",
+    "startProject": "Mulakan projek",
+    "startFreeNow": "Mulakan konsultasi percuma",
+    "viewShowcase": "Lihat hasil kerja",
+    "viewAllWork": "Lihat semua projek",
+    "seePricing": "Lihat harga",
+    "learnMore": "Ketahui lebih lanjut",
+    "getInTouch": "Hubungi kami",
+    "visitSite": "Lihat projek",
+    "decorative": "Pratonton ilustrasi"
+  },
+  "home": {
+    "hero": {
+      "badge": "Reka · Bangun · Lancar",
+      "titleLine1": "Laman Web yang",
+      "titleLine2": "Layak Diperkatakan",
+      "subtitle": "Olzytech Solutions membawa idea anda dari keperluan pertama hingga menjadi laman web yang pantas, cantik dan aktif, dengan satu pasukan yang bertanggungjawab ke atas setiap langkah.",
+      "cards": {
+        "performance": {
+          "title": "Prestasi",
+          "value": "98",
+          "caption": "Skor Lighthouse"
+        },
+        "uptime": {
+          "title": "Masa aktif",
+          "value": "99.98%",
+          "caption": "dikemas kini hari ini"
+        },
+        "pipeline": {
+          "title": "Perancangan Projek",
+          "value": "Sedia dilancar",
+          "design": "Reka bentuk",
+          "build": "Pembangunan"
+        },
+        "milestones": {
+          "title": "Pencapaian",
+          "seeAll": "Lihat semua",
+          "items": {
+            "requirements": "Keperluan",
+            "design": "Sistem reka bentuk",
+            "build": "Pembangunan"
+          }
+        },
+        "release": {
+          "title": "Keluaran seterusnya",
+          "name": "Pelancaran produksi",
+          "remaining": "2 semakan lagi",
+          "seeAll": "Lihat semua"
+        }
+      }
+    },
+    "trust": {
+      "label": "Dibina dengan teknologi web moden",
+      "items": [
+        "Next.js",
+        "React",
+        "Vue.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "GraphQL",
+        "Vercel",
+        "Cloudflare",
+        "AWS"
+      ]
+    },
+    "services": {
+      "eyebrow": "Perkhidmatan kami",
+      "title": "Dari piksel ke pengeluaran, semuanya di bawah satu bumbung",
+      "description": "Dari perbualan pertama hingga pelancaran akhir dan seterusnya, kami mereka, membangun dan menjaga laman web anda supaya anda boleh fokus kepada perniagaan.",
+      "items": [
+        {
+          "title": "Reka Bentuk Laman Web",
+          "description": "UI/UX tersendiri, sistem reka bentuk dan visual selaras jenama yang kemas di setiap skrin serta menukar pelawat kepada pelanggan."
+        },
+        {
+          "title": "Pembangunan Laman Web",
+          "description": "Laman web dan aplikasi web yang pantas, mudah diakses dan mesra SEO, dibina dengan rangka kerja moden dan kod yang bersih."
+        },
+        {
+          "title": "Keperluan & Perancangan",
+          "description": "Kami menukar idea kepada skop, peta laman, aliran pengguna dan garis masa yang jelas, tanpa kejutan kemudian."
+        },
+        {
+          "title": "Pelancaran & Pengehosan",
+          "description": "CI/CD, domain, SSL, pemantauan dan pengehosan awan disediakan dengan betul dan diserahkan bersama dokumentasi."
+        },
+        {
+          "title": "SEO & Prestasi",
+          "description": "SEO teknikal, penalaan Core Web Vitals, data berstruktur dan analitik supaya anda mudah ditemui dan pelawat kekal."
+        },
+        {
+          "title": "Penjagaan & Penyelenggaraan",
+          "description": "Kemas kini, sandaran, tampalan keselamatan dan penambahbaikan berterusan selepas pelancaran. Kami kekal sebagai pasukan web anda."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Cara kami bekerja",
+      "title": "Lima langkah dari halaman kosong ke laman web aktif",
+      "description": "Proses yang boleh dijangka dengan pencapaian tetap dan demo berkala, supaya anda sentiasa tahu status projek.",
+      "steps": [
+        {
+          "title": "Teroka",
+          "description": "Bengkel matlamat, audiens dan keperluan anda. Kami serahkan skop, peta laman dan garis masa tetap."
+        },
+        {
+          "title": "Reka",
+          "description": "Rangka wayar, arah visual dan prototaip interaktif untuk anda nilai sebelum sebarang kod ditulis."
+        },
+        {
+          "title": "Bangun",
+          "description": "Pembangunan berasaskan komponen, integrasi CMS dan migrasi kandungan, didemokan setiap sprint."
+        },
+        {
+          "title": "Lancar",
+          "description": "Semakan QA, prestasi dan kebolehcapaian, kemudian pelancaran ke produksi tanpa masa henti."
+        },
+        {
+          "title": "Kembang",
+          "description": "Analitik, SEO dan penambahbaikan berterusan untuk memastikan laman anda kekal di hadapan."
+        }
+      ]
+    },
+    "revamp": {
+      "eyebrow": "Pembaharuan laman web",
+      "title": "Perniagaan yang sama, tanggapan pertama yang baharu",
+      "description": "Salah satu projek pelanggan kami: jenama tuisyen dalam talian yang laman webnya kami reka bentuk dan bina semula dari awal. Seret peluncur untuk membandingkan laman utama lama dengan yang baharu.",
+      "before": "Sebelum",
+      "after": "Selepas",
+      "hint": "Seret untuk bandingkan",
+      "slider": "Bandingkan laman web lama dengan laman web baharu",
+      "beforeAlt": "Laman utama lama: susun atur biasa dengan gambar besar, tajuk terlalu besar dan bar navigasi asas",
+      "afterAlt": "Laman utama baharu: susun atur moden dengan tajuk yang jelas, hero berilustrasi, lencana kepercayaan dan butang seruan tindakan yang menonjol",
+      "changesTitle": "Apa yang kami ubah",
+      "changes": [
+        {
+          "title": "Terjemahan bahasa",
+          "description": "Laman web kini menyokong lebih daripada satu bahasa, supaya ibu bapa boleh membaca semuanya dalam bahasa yang paling mereka selesa."
+        },
+        {
+          "title": "Reka bentuk UI moden",
+          "description": "Rupa baharu yang segar dan konsisten dengan susun atur kemas, ilustrasi ceria dan tipografi jelas menggantikan reka bentuk lama yang biasa."
+        },
+        {
+          "title": "Lebih banyak interaksi pengguna",
+          "description": "Lencana kepercayaan beranimasi, peralihan lancar dan gesaan percubaan percuma terapung memastikan pelawat terlibat dan membimbing mereka untuk mendaftar."
+        },
+        {
+          "title": "Akses lebih pantas kepada sokongan pelanggan",
+          "description": "Butang daftar dan hubungi yang sentiasa kelihatan menghubungkan anda dengan pasukan hanya satu ketikan."
+        }
+      ]
+    },
+    "manifesto": {
+      "eyebrow": "Pendekatan kami",
+      "text": "Kami percaya laman web lebih daripada sekadar piksel. Ia ialah **tanggapan pertama** anda, **jurujual terbaik** anda dan **kedai paling sibuk** anda. Itulah sebabnya kami mereka dengan tujuan, membina untuk **kelajuan** dan melancarkan dengan teliti, supaya setiap lawatan menjadi **momentum** untuk perniagaan anda."
+    },
+    "stats": {
+      "items": [
+        {
+          "value": "5+",
+          "label": "tahun pengalaman dalam reka bentuk dan pembangunan web"
+        },
+        {
+          "value": "10+",
+          "label": "projek aktif telah disiapkan"
+        },
+        {
+          "value": "95+",
+          "label": "sasaran skor Lighthouse bagi setiap projek"
+        },
+        {
+          "value": "100%",
+          "label": "pembinaan mesra mudah alih dan sedia SEO"
+        }
+      ]
+    },
+    "showcase": {
+      "eyebrow": "Hasil kerja pilihan",
+      "title": "Projek yang menarik perhatian dan memenangi pelanggan",
+      "description": "Sekilas laman web dan aplikasi web yang kami bentuk untuk pasukan yang bercita-cita tinggi."
+    },
+    "faq": {
+      "eyebrow": "Soalan Lazim",
+      "title": "Segala yang anda ingin tanya, terjawab",
+      "items": [
+        {
+          "question": "Berapa lama masa untuk sebuah laman web biasa?",
+          "answer": "Laman web pemasaran yang fokus biasanya mengambil masa 3 hingga 6 minggu dari permulaan hingga pelancaran. Aplikasi web yang lebih besar dirancang secara berfasa supaya anda melihat perisian berfungsi lebih awal."
+        },
+        {
+          "question": "Adakah anda menguruskan pengehosan dan pelancaran?",
+          "answer": "Ya. Kami menyediakan domain, SSL, pengehosan dan saluran CI/CD, kemudian menyerahkan dokumentasi penuh. Kami juga boleh terus mengurusnya untuk anda."
+        },
+        {
+          "question": "Bolehkah laman web saya menyokong pelbagai bahasa?",
+          "answer": "Sudah tentu. Laman web kami dilengkapi pelokalan yang betul, termasuk laluan terjemahan, tag hreflang dan SEO setiap bahasa, sedia untuk Bahasa Inggeris, Bahasa Melayu dan lain-lain."
+        },
+        {
+          "question": "Bolehkah saya mengedit kandungan sendiri?",
+          "answer": "Itu rancangannya. Kami mengintegrasikan CMS headless atau papan pemuka admin yang sesuai dengan pasukan anda, dan melatih anda menggunakannya."
+        },
+        {
+          "question": "Apa yang anda perlukan daripada saya untuk bermula?",
+          "answer": "Hanya ringkasan pendek: matlamat, audiens, aset jenama dan contoh yang anda suka. Kami akan membimbing anda dalam panggilan penerokaan."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Idea besar anda seterusnya layak mendapat laman web yang hebat",
+      "description": "Ceritakan projek anda dan dapatkan pelan yang jelas serta anggaran harga dalam satu hari bekerja.",
+      "primary": "Mulakan projek",
+      "secondary": "Lihat harga"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Tentang kami",
+      "title": "Pasukan kecil yang berpengalaman, taksub dengan seni web",
+      "description": "Olzytech Solutions ialah studio reka bentuk dan pembangunan laman web. Kami menggabungkan reka bentuk teliti, kejuruteraan tegas dan komunikasi jelas untuk menghasilkan laman yang berprestasi."
+    },
+    "story": {
+      "eyebrow": "Kisah kami",
+      "title": "Laman web hebat bukan satu kemewahan",
+      "paragraphs": [
+        "Terlalu banyak perniagaan terpaksa mengurus pereka, pembangun dan penyedia pengehosan yang tidak pernah berbincang sesama sendiri. Olzytech Solutions ditubuhkan untuk menyelesaikannya: satu pasukan yang bertanggungjawab dari keperluan pertama hingga pelancaran dan seterusnya.",
+        "Kami bekerja dengan syarikat permulaan, PKS dan jenama mapan, dan menganggap setiap projek seperti produk kami sendiri: matlamat yang boleh diukur, garis masa yang jujur dan tanpa jargon."
+      ]
+    },
+    "values": {
+      "eyebrow": "Kepercayaan kami",
+      "title": "Kepercayaan di sebalik setiap piksel",
+      "items": [
+        {
+          "title": "AI ialah alat, bukan tukangnya",
+          "description": "Kami guna AI untuk bergerak lebih pantas, kemudian manusia yang mereka bentuk, menyemak dan membuat keputusan. Kelajuan untuk anda, tanggungjawab di pihak kami."
+        },
+        {
+          "title": "Inovasi ialah emas",
+          "description": "Kami sentiasa meneroka idea dan teknologi moden yang lebih baik, supaya perniagaan anda menonjol dan bukan sekadar mengikut arus."
+        },
+        {
+          "title": "Prestasi ialah ciri",
+          "description": "Halaman pantas, antara muka mudah diakses dan SEO yang kukuh adalah sebahagian daripada definisi siap."
+        },
+        {
+          "title": "Rakan kongsi, bukan vendor",
+          "description": "Skop jelas, kemajuan jujur, dan kami kekal rapat selepas pelancaran untuk berkembang bersama perniagaan anda."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Mari bina sesuatu yang akan diingati orang",
+      "description": "Kongsikan idea anda dan kami akan memetakan laluan terpantas dari konsep ke pelancaran.",
+      "primary": "Berbual dengan kami"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "eyebrow": "Portfolio",
+      "title": "Bukti, bukan janji: projek dari studio kami",
+      "description": "Laman web dan aplikasi web yang direka, dibangunkan dan dilancarkan dari awal hingga akhir."
+    },
+    "filters": {
+      "all": "Semua"
+    },
+    "sections": {
+      "websites": {
+        "eyebrow": "Laman web",
+        "title": "Laman web yang dibina untuk kesan pertama",
+        "description": "Laman web yang pantas dan berfokus pada penukaran, membantu perniagaan ditemui dan mendapat pertanyaan."
+      },
+      "dashboards": {
+        "eyebrow": "Binaan kompleks",
+        "title": "Papan pemuka dan aplikasi yang menjadikan data jelas",
+        "description": "Sistem yang lebih besar dan berasaskan data untuk pasukan yang memerlukan lebih daripada sebuah laman web."
+      }
+    },
+    "categories": {
+      "fintech": "Aplikasi fintech",
+      "education": "Pendidikan",
+      "property": "Hartanah",
+      "energy": "AI & tenaga",
+      "business": "Perkhidmatan perniagaan",
+      "analytics": "Papan pemuka analitik",
+      "donation": "Platform derma",
+      "academy": "Pengurusan akademi"
+    },
+    "labels": {
+      "result": "Sorotan",
+      "visit": "Lawati laman web",
+      "newTab": "(dibuka dalam tab baharu)",
+      "completed": "Siap",
+      "comingSoon": "Akan datang"
+    },
+    "projects": [
+      {
+        "slug": "cashflow",
+        "name": "Cashflow",
+        "category": "fintech",
+        "summary": "Laman web pemasaran untuk aplikasi kewangan peribadi yang menjejak wang mengikut kitaran gaji dan memberi amaran sebelum tarikh tutup kad kredit.",
+        "result": "Saluran muat turun App Store dan Google Play, dengan tema cerah dan gelap",
+        "tags": [
+          "Halaman pendaratan",
+          "Aplikasi mudah alih",
+          "Mod gelap"
+        ]
+      },
+      {
+        "slug": "sgmathwizard",
+        "name": "Singapore Math Wizard",
+        "category": "education",
+        "summary": "Reka bentuk semula penuh untuk pusat tuisyen Matematik Singapura dalam talian terbesar di Malaysia, dibina untuk menukar ibu bapa kepada pendaftaran.",
+        "result": "Lencana kepercayaan dalam hero, gesaan percubaan percuma dan pensuis bahasa",
+        "tags": [
+          "Reka bentuk semula",
+          "Halaman pendaratan",
+          "Pendidikan"
+        ]
+      },
+      {
+        "slug": "juststayliving",
+        "name": "Just Stay Living",
+        "category": "property",
+        "summary": "Laman web untuk perkhidmatan pembaharuan rumah dan pengurusan sewaan yang membantu pemilik hartanah mengurus unit, menjejak penyewa dan memaksimumkan pendapatan.",
+        "result": "Seruan tindakan sebut harga, bukti ulasan dan sembang WhatsApp satu ketikan",
+        "tags": [
+          "Laman perniagaan",
+          "Penjanaan prospek",
+          "WhatsApp"
+        ]
+      },
+      {
+        "slug": "wind-turbine-inspection",
+        "name": "Wind Turbine Inspection",
+        "category": "energy",
+        "summary": "Laman web produk untuk platform pemeriksaan turbin angin autonomi berkuasa AI, menerangkan masalah yang diselesaikan dan cara ia berfungsi.",
+        "result": "Hero berasaskan data dengan statistik, bahagian perkhidmatan dan harga",
+        "tags": [
+          "Laman produk",
+          "AI",
+          "Tenaga"
+        ]
+      },
+      {
+        "slug": "exbiz",
+        "name": "Exbiz",
+        "category": "business",
+        "summary": "Laman web untuk perkhidmatan permulaan perniagaan yang mengendalikan pendaftaran undang-undang, perakaunan dan kewangan supaya pengasas boleh fokus pada pertumbuhan.",
+        "result": "Seruan tindakan konsultasi percuma yang berani dengan testimoni dan soalan lazim",
+        "tags": [
+          "Laman perniagaan",
+          "Penjanaan prospek",
+          "WhatsApp"
+        ]
+      },
+      {
+        "slug": "sgmathwizard-dashboard",
+        "name": "Singapore Math Wizard Dashboard",
+        "category": "analytics",
+        "summary": "Aplikasi papan pemuka analitik yang lengkap dan kompleks, dibina untuk Singapore Math Wizard supaya pasukan boleh mengurus dan memahami perniagaan di satu tempat yang selamat.",
+        "result": "Aplikasi web penuh dengan log masuk pasukan yang selamat, dibina bersama laman web yang direka semula",
+        "tags": [
+          "Papan pemuka analitik",
+          "Aplikasi web",
+          "Log masuk selamat",
+          "Get laluan pembayaran",
+          "Pelbagai peranan"
+        ]
+      },
+      {
+        "slug": "ripples",
+        "name": "Ripples",
+        "category": "donation",
+        "summary": "Platform derma dan sistem pengurusan dalam satu. Penganjur dana melancarkan kempen dan menguruskan penderma, manakala penderma menderma dengan selamat dan melihat ke mana wang mereka pergi.",
+        "result": "Halaman kempen, papan pemuka penderma dan penganjur dana, serta laporan impak yang telus",
+        "tags": [
+          "Platform derma",
+          "Aplikasi web",
+          "Pengurusan penderma",
+          "Alat penganjur dana",
+          "Gerbang pembayaran"
+        ]
+      },
+      {
+        "slug": "zonnetix",
+        "name": "Zonnetix",
+        "category": "academy",
+        "summary": "Sistem pengurusan akademi yang mengendalikan pelajar, pembayaran, bilik darjah, jadual waktu dan banyak lagi di satu tempat, supaya pusat tuisyen dan sekolah menjimatkan masa pentadbiran.",
+        "result": "Rekod pelajar, penjejakan yuran dan bayaran, penjadualan bilik darjah dan laporan sedia untuk ibu bapa",
+        "tags": [
+          "Pengurusan akademi",
+          "Aplikasi web",
+          "Rekod pelajar",
+          "Pembayaran",
+          "Bilik darjah"
+        ]
+      }
+    ],
+    "stack": {
+      "eyebrow": "Cara kami bekerja",
+      "title": "Dari halaman kosong ke laman web yang menyerlah",
+      "description": "Seret setiap langkah ke atas halaman dan lihat skrin kosong membesar menjadi laman web yang direka, dibina, diuji dan mudah ditemui. Laluan yang sama kami ikuti bersama setiap pelanggan.",
+      "demo": {
+        "prompt": "Seret setiap langkah ke atas halaman, dari idea hingga pelancaran",
+        "promptDone": "Dari idea ke pelancaran dalam sembilan langkah: dirancang, direka, dibina, diuji, aktif dan mudah ditemui.",
+        "reset": "Mula semula",
+        "applied": "digunakan",
+        "stageLabel": "Demo interaktif: seret sembilan langkah, dari idea hingga SEO, ke atas halaman web kosong dan lihat ia membesar menjadi laman web aktif yang telah diuji dan mendapat pelawat.",
+        "dropHint": "Lepas untuk guna",
+        "tools": {
+          "idea": {
+            "label": "Idea",
+            "action": "Tambah idea pada halaman",
+            "result": "Idea: setiap laman web hebat bermula dengan masalah yang jelas dan satu ayat yang menerangkannya.",
+            "hint": "Tentukan matlamat dalam satu ayat"
+          },
+          "requirements": {
+            "label": "Keperluan",
+            "action": "Tambah keperluan pada halaman",
+            "result": "Keperluan: kami ubah idea kepada halaman, ciri dan matlamat yang dipersetujui semua pihak.",
+            "hint": "Ubah kepada halaman dan ciri"
+          },
+          "prototype": {
+            "label": "Prototaip",
+            "action": "Tambah prototaip pada halaman",
+            "result": "Prototaip: kerangka wayar membolehkan anda menguji aliran sebelum masa reka bentuk digunakan.",
+            "hint": "Lakar aliran sebelum mereka bentuk"
+          },
+          "design": {
+            "label": "Reka bentuk",
+            "action": "Gunakan reka bentuk pada halaman",
+            "result": "Reka bentuk: susun atur, tipografi dan warna mengubah kerangka wayar menjadi jenama yang diingati.",
+            "hint": "Beri rupa yang diingati orang"
+          },
+          "backend": {
+            "label": "Backend",
+            "action": "Tambah backend pada halaman",
+            "result": "Backend: API mengendalikan pesanan, akaun dan logik, supaya laman benar-benar berfungsi.",
+            "hint": "Tambah logik yang melakukan kerja"
+          },
+          "database": {
+            "label": "Pangkalan data",
+            "action": "Tambah pangkalan data pada halaman",
+            "result": "Pangkalan data: menu, harga dan pelanggan disimpan dengan selamat dan dihidangkan dalam milisaat.",
+            "hint": "Simpan menu, harga dan pelanggan"
+          },
+          "testing": {
+            "label": "Ujian",
+            "action": "Jalankan ujian pada halaman",
+            "result": "Ujian: semakan automatik menangkap pepijat pada setiap peranti sebelum pelanggan anda.",
+            "hint": "Tangkap pepijat pada setiap peranti"
+          },
+          "deploy": {
+            "label": "Pelancaran",
+            "action": "Lancarkan halaman dalam talian",
+            "result": "Pelancaran: laman anda hidup di domain sendiri, selamat dan pantas di seluruh dunia.",
+            "hint": "Siarkan di domain anda sendiri"
+          },
+          "seo": {
+            "label": "SEO",
+            "action": "Gunakan SEO pada halaman",
+            "result": "SEO: enjin carian memahami halaman anda, jadi pelawat yang tepat mula tiba.",
+            "hint": "Ditemui oleh pelawat yang tepat"
+          }
+        },
+        "scene": {
+          "brand": "Brew & Co",
+          "links": [
+            "Utama",
+            "Tentang",
+            "Menu",
+            "Hubungi"
+          ],
+          "styledTitle": "Kopi, dibuat perlahan-lahan.",
+          "styledBody": "Biji kopi panggang kelompok kecil, dibancuh dengan cara yang betul.",
+          "styledButton": "Pesan sekarang",
+          "cards": [
+            "Espresso",
+            "Tapis",
+            "Kopi sejuk"
+          ],
+          "offline": "Luar talian",
+          "live": "Aktif",
+          "visitors": "Pelawat",
+          "searchTitle": "Brew & Co | Kopi terbaik di bandar",
+          "searchSnippet": "Kopi panggang kelompok kecil, dibancuh perlahan. Buka setiap hari.",
+          "blank": "Belum ada apa-apa",
+          "ideaTitle": "Idea",
+          "ideaNote": "Laman web untuk kedai kopi kami: tunjuk menu dan terima pesanan dalam talian.",
+          "reqTitle": "Keperluan",
+          "reqItems": [
+            "Halaman Utama, Menu dan Hubungi",
+            "Pesanan dalam talian",
+            "Berfungsi pada semua telefon",
+            "Pantas dan mudah ditemui"
+          ],
+          "orderToast": "Pesanan baharu #1042",
+          "testsTitle": "Ujian",
+          "tests": [
+            "Aliran pembayaran",
+            "Reka letak mudah alih",
+            "Borang",
+            "Kebolehcapaian"
+          ],
+          "passed": "lulus"
+        },
+        "step": "Langkah",
+        "dragHint": "Seret ke atas halaman",
+        "done": {
+          "title": "Dilancarkan!",
+          "hint": "Semua langkah digunakan"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "hero": {
+      "eyebrow": "Harga",
+      "title": "Harga mudah untuk laman web yang bekerja lebih keras",
+      "description": "Pilih tahap yang sepadan dengan projek anda: mudah, sederhana atau kompleks. Pembangunan laman web, reka bentuk semula dan papan pemuka analitik semuanya ditentukan skopnya dengan cara ini. Harga dipaparkan dalam mata wang tempatan anda, dan setiap projek bermula dengan konsultasi percuma."
+    },
+    "audience": {
+      "eyebrow": "Untuk siapa",
+      "title": "Dibuat untuk individu dan perniagaan yang sedang naik",
+      "description": "Pakej kami direka untuk individu, syarikat permulaan serta perniagaan kecil dan sederhana di Malaysia, Singapura dan Hong Kong.",
+      "items": [
+        {
+          "title": "Peribadi",
+          "description": "Laman web portfolio atau resume yang kemas untuk individu, bagi mempamerkan hasil kerja anda dan menarik perhatian majikan dan pelanggan."
+        },
+        {
+          "title": "Syarikat permulaan",
+          "description": "Lancar dengan pantas melalui MVP berskop tetap atau laman web sedia untuk pelabur, kemudian teruskan mengembangkannya bersama syarikat anda."
+        },
+        {
+          "title": "PKS",
+          "description": "Laman web profesional yang membina kepercayaan, mendatangkan pertanyaan dan seiring dengan pertumbuhan perniagaan."
+        }
+      ]
+    },
+    "regionLabel": "Pilih pasaran anda",
+    "regions": {
+      "my": {
+        "label": "Malaysia",
+        "note": "Dibil dalam Ringgit Malaysia (MYR). SST dikenakan jika berkenaan. Harga ialah titik permulaan yang dianggarkan."
+      },
+      "sg": {
+        "label": "Singapura",
+        "note": "Dibil dalam Dolar Singapura (SGD). GST dikenakan jika berkenaan. Harga ialah titik permulaan yang dianggarkan."
+      },
+      "hk": {
+        "label": "Hong Kong",
+        "note": "Dibil dalam Dolar Hong Kong (HKD). Harga ialah titik permulaan yang dianggarkan dan tidak termasuk sebarang cukai yang berkenaan."
+      }
+    },
+    "comingSoon": "Segera",
+    "from": "bermula",
+    "popular": "Paling popular",
+    "packages": {
+      "eyebrow": "Harga",
+      "title": "Pilih pelantar pelancaran anda",
+      "description": "Setiap projek ditentukan skopnya sebagai mudah, sederhana atau kompleks. Yuran akhir anda disahkan dalam cadangan selepas konsultasi percuma."
+    },
+    "levels": {
+      "simple": {
+        "name": "Mudah",
+        "fits": "Laman kecil, pembaharuan pantas dan papan pemuka satu sumber data",
+        "description": "Cara terpantas untuk mula dalam talian atau memodenkan apa yang sudah anda miliki.",
+        "features": [
+          "Laman web: sehingga 5 halaman dengan reka bentuk responsif tersuai",
+          "Reka bentuk semula: rupa baharu untuk halaman sedia ada anda, dengan lencongan untuk melindungi SEO",
+          "Papan pemuka: 1 sumber data dan sehingga 3 paparan",
+          "Asas SEO pada halaman, pelancaran dan SSL",
+          "2 minggu sokongan selepas pelancaran"
+        ]
+      },
+      "moderate": {
+        "name": "Sederhana",
+        "fits": "Laman perniagaan, reka bentuk semula penuh dan papan pemuka berbilang sumber",
+        "description": "Penyelesaian lengkap yang dibina untuk naik dalam carian, menukar dan berkembang bersama perniagaan anda.",
+        "features": [
+          "Laman web: sehingga 15 halaman dengan persediaan berbilang bahasa",
+          "Reka bentuk semula: struktur baharu, migrasi kandungan dan audit SEO",
+          "Papan pemuka: sehingga 3 sumber data, peranan pengguna dan laporan berjadual",
+          "SEO teknikal, analitik dan penalaan prestasi",
+          "3 bulan sokongan"
+        ]
+      },
+      "complex": {
+        "name": "Kompleks",
+        "fits": "Aplikasi web, kedai dalam talian, pembinaan semula platform dan platform analitik",
+        "description": "Tersuai, bersepadu dan dibina untuk berskala bersama perniagaan anda.",
+        "features": [
+          "Laman web: aplikasi web atau kedai dalam talian tersuai dengan akaun, pembayaran dan integrasi",
+          "Reka bentuk semula: pembinaan semula penuh dengan migrasi platform dan data",
+          "Papan pemuka: saluran data, data masa nyata dan analitik lanjutan",
+          "Seni bina awan, semakan keselamatan dan ujian automatik",
+          "Ketua projek khusus",
+          "6 bulan sokongan"
+        ]
+      }
+    },
+    "choose": "Pilih",
+    "oneOff": "projek sekali bayar",
+    "addons": {
+      "eyebrow": "Tambahan",
+      "title": "Naik taraf mana-mana pakej",
+      "description": "Pilih mengikut keperluan perniagaan anda. Harga ialah titik permulaan dan bergantung pada skop.",
+      "items": [
+        {
+          "id": "language",
+          "name": "Bahasa tambahan",
+          "description": "Halaman diterjemah, URL setempat dan SEO bagi setiap bahasa.",
+          "unit": "setiap bahasa"
+        },
+        {
+          "id": "revamp",
+          "name": "Pembaharuan reka bentuk",
+          "description": "Rupa baharu untuk laman web sedia ada anda: susun atur, warna dan tipografi yang dikemas kini.",
+          "unit": "dan ke atas"
+        },
+        {
+          "id": "brand",
+          "name": "Logo dan kit jenama",
+          "description": "Logo, palet warna dan tipografi sebagai asas reka bentuk laman web.",
+          "unit": "sekali bayar"
+        },
+        {
+          "id": "cms",
+          "name": "Integrasi CMS",
+          "description": "Sambungkan sistem pengurusan kandungan supaya anda boleh mengedit halaman, teks dan imej sendiri.",
+          "unit": "sekali bayar"
+        },
+        {
+          "id": "payments",
+          "name": "Get laluan pembayaran",
+          "description": "Terima kad dan kaedah pembayaran tempatan dengan selamat di laman anda.",
+          "unit": "sekali bayar"
+        },
+        {
+          "id": "seo",
+          "name": "SEO sekali bayar",
+          "description": "Semakan SEO sekali sahaja untuk laman web anda, dengan penambahbaikan dibuat sekali.",
+          "unit": "sekali bayar"
+        }
+      ]
+    },
+    "consultation": {
+      "eyebrow": "Konsultasi percuma",
+      "title": "Bual dahulu. Percuma untuk anda.",
+      "description": "Tidak pasti pakej mana yang sesuai? Tempah panggilan tanpa sebarang kewajipan dan kami akan membantu anda memilih. Inilah yang anda dapat:",
+      "includesTitle": "Apa yang termasuk",
+      "items": [
+        "Panggilan video atau telefon 30 minit bersama ahli kanan pasukan kami",
+        "Semakan matlamat, audiens, pesaing dan laman web semasa anda",
+        "Pakej yang disyorkan dengan anggaran harga dalam mata wang anda",
+        "Cadangan peta laman dan halaman utama yang diperlukan perniagaan anda",
+        "Nasihat tentang ciri, domain, pengehosan dan teknologi yang sesuai",
+        "Ringkasan bertulis dan langkah seterusnya yang jelas dalam 2 hari bekerja",
+        "Tanpa kewajipan dan tanpa tekanan jualan"
+      ],
+      "cta": "Tempah konsultasi percuma",
+      "note": "Percuma untuk perniagaan di Malaysia, Singapura dan Hong Kong. Panggilan dijadualkan mengikut waktu tempatan anda."
+    },
+    "testimonials": {
+      "eyebrow": "Kisah pelanggan",
+      "title": "Jangan percaya kata-kata kami sahaja",
+      "description": "Maklum balas daripada perniagaan yang laman webnya kami bina.",
+      "draft": "Draf: menunggu kelulusan pelanggan",
+      "items": {
+        "cashflow": {
+          "quote": "Olzytech memahami produk kami sejak panggilan pertama lagi. Laman web baharu menerangkan Cashflow dalam beberapa saat, dan orang ramai terus menjumpai pautan App Store dan Google Play kami.",
+          "name": "Pengasas",
+          "role": "Cashflow"
+        },
+        "sgmathwizard": {
+          "quote": "Reka bentuk semula menjadikan jenama kami kelihatan jauh lebih dipercayai. Ibu bapa kini terus melihat guru, hasil dan percubaan percuma kami, dan pendaftaran sangat mudah.",
+          "name": "Pengarah",
+          "role": "Singapore Math Wizard"
+        },
+        "juststayliving": {
+          "quote": "Mereka menukar perkhidmatan kami kepada laman web yang jelas dan profesional. Butang sebut harga dan sembang WhatsApp memudahkan pemilik hartanah menghubungi kami.",
+          "name": "Pengasas",
+          "role": "Just Stay Living"
+        }
+      }
+    },
+    "faq": {
+      "title": "Soalan harga, dijawab terus terang",
+      "items": [
+        {
+          "question": "Bagaimana saya tahu projek saya mudah, sederhana atau kompleks?",
+          "answer": "Projek mudah mempunyai beberapa halaman atau satu sumber data. Projek sederhana menambah CMS, beberapa bahasa atau berbilang sumber data dan peranan pengguna. Projek kompleks melibatkan ciri tersuai, akaun, pembayaran, integrasi atau data bervolum besar. Kami mengesahkan tahap dan sebut harga tetap dalam konsultasi percuma anda."
+        },
+        {
+          "question": "Adakah anda bekerja dengan perniagaan di Singapura dan Hong Kong?",
+          "answer": "Ya. Kami bekerja secara jarak jauh dengan PKS dan syarikat permulaan di Malaysia, Singapura dan Hong Kong. Panggilan diadakan mengikut waktu tempatan anda, dan anda dibil dalam mata wang tempatan."
+        },
+        {
+          "question": "Mengapa harga berbeza antara negara?",
+          "answer": "Harga mencerminkan kadar pasaran tempatan dan mata wang pengebilan. Skop, kualiti dan proses adalah sama di setiap pasaran."
+        },
+        {
+          "question": "Bagaimana projek dibilkan?",
+          "answer": "Biasanya 40% di awal, 40% pada kelulusan reka bentuk dan 20% semasa pelancaran. Projek lebih besar dibilkan mengikut pencapaian."
+        },
+        {
+          "question": "Apa yang tidak termasuk dalam harga pakej?",
+          "answer": "Pendaftaran domain, lesen pihak ketiga dan tahap pengehosan berbayar dicaj mengikut kos, dan cukai yang berkenaan ditambah. Kami akan menyatakannya semasa perancangan."
+        },
+        {
+          "question": "Bolehkah saya naik taraf kemudian?",
+          "answer": "Boleh. Mulakan dengan skop mudah dan naik ke sederhana atau kompleks kemudian. Kami mereka asas supaya anda tidak perlu membina semula."
+        },
+        {
+          "question": "Apa berlaku selepas pelancaran?",
+          "answer": "Setiap tahap merangkumi tempoh sokongan (2 minggu, 3 bulan atau 6 bulan). Jika anda mahukan bantuan berterusan selepas itu, kami boleh bersetuju tentang pengaturan sokongan bulanan semasa konsultasi anda."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Tidak pasti mahu mula dari mana? Kami tunjukkan arah.",
+      "description": "Tempah konsultasi percuma dan kami akan mencadangkan skop yang tepat untuk matlamat dan bajet anda.",
+      "primary": "Tempah konsultasi percuma"
+    },
+    "custom": "Tersuai",
+    "customNote": "Disesuaikan dengan projek anda dan disebut harga selepas konsultasi percuma",
+    "contactSales": "Hubungi Sokongan Jualan"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Hubungi",
+      "title": "Ada idea? Mari jadikan ia kenyataan.",
+      "description": "Kongsikan beberapa butiran dan kami akan membalas dalam satu hari bekerja dengan langkah seterusnya dan anggaran harga."
+    },
+    "info": {
+      "title": "Lebih suka tanpa borang?",
+      "email": "E-mel",
+      "phone": "Telefon",
+      "hours": "Waktu",
+      "hoursValue": "Isnin hingga Jumaat, 9:00 pagi hingga 6:00 petang (MYT)",
+      "location": "Berpangkalan di",
+      "locationValue": "Malaysia · berkhidmat seluruh dunia",
+      "responseTitle": "Apa berlaku seterusnya",
+      "steps": [
+        "Kami menyemak ringkasan anda dan membalas dalam satu hari bekerja.",
+        "Panggilan penerokaan percuma 30 minit untuk menyelaraskan matlamat.",
+        "Anda menerima cadangan, garis masa dan sebut harga tetap yang jelas."
+      ]
+    },
+    "form": {
+      "name": "Nama penuh",
+      "namePlaceholder": "Aisha Rahman",
+      "email": "E-mel",
+      "emailPlaceholder": "anda@syarikat.com",
+      "company": "Syarikat (pilihan)",
+      "companyPlaceholder": "Syarikat anda",
+      "service": "Saya berminat dengan",
+      "choose": "Pilih…",
+      "serviceOptions": {
+        "design": "Reka bentuk laman web",
+        "development": "Pembangunan laman web",
+        "fullservice": "Hujung ke hujung (keperluan hingga pelancaran)",
+        "seo": "SEO & prestasi",
+        "other": "Perkara lain"
+      },
+      "budget": "Bajet",
+      "budgetOptions": {
+        "under2": "Bawah RM 2,000",
+        "2to5": "RM 2,000 hingga 5,000",
+        "5to15": "RM 5,000 hingga 15,000",
+        "over15": "RM 15,000+"
+      },
+      "message": "Butiran projek",
+      "messagePlaceholder": "Ceritakan matlamat, garis masa dan apa-apa yang perlu kami ketahui…",
+      "consent": "Dengan menghantar borang ini anda bersetuju kami boleh menghubungi anda tentang pertanyaan anda.",
+      "submit": "Hantar mesej",
+      "submitting": "Menghantar…",
+      "successTitle": "Mesej dihantar",
+      "successBody": "Terima kasih! Kami akan menghubungi anda dalam satu hari bekerja.",
+      "errorGeneric": "Sesuatu tidak kena. Sila cuba lagi atau e-mel kami terus.",
+      "errors": {
+        "name": "Sila masukkan nama anda.",
+        "email": "Sila masukkan alamat e-mel yang sah.",
+        "message": "Sila ceritakan sedikit lagi (sekurang-kurangnya 10 aksara).",
+        "service": "Sila pilih perkhidmatan."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Laman web direka untuk masa depan. Dibangun dan dilancarkan dari awal hingga akhir.",
+    "explore": "Teroka",
+    "services": "Perkhidmatan",
+    "connect": "Hubungi",
+    "serviceLinks": [
+      "Reka bentuk laman web",
+      "Pembangunan laman web",
+      "Pelancaran & pengehosan",
+      "SEO & prestasi"
+    ],
+    "rights": "Hak cipta terpelihara.",
+    "madeIn": "Dibuat di Malaysia",
+    "whatsappMessage": "Hai Olzytech, saya ingin tahu lebih lanjut tentang perkhidmatan laman web anda."
+  }
+}

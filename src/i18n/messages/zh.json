@@ -1,0 +1,846 @@
+{
+  "meta": {
+    "siteName": "Olzytech Solutions",
+    "titleTemplate": "%s | Olzytech Solutions",
+    "defaultDescription": "Olzytech Solutions 设计并打造快速、精美的网站，从最初的需求一直到正式上线。",
+    "home": {
+      "title": "网站设计与开发，从需求到上线",
+      "description": "Olzytech Solutions 设计、开发并部署快速且利于 SEO 的网站与网页应用。一个团队、一套流程，从最初的需求到上线当天。"
+    },
+    "about": {
+      "title": "关于我们",
+      "description": "认识 Olzytech Solutions：一支精悍而资深的网站团队，把需求变成快速、精美、可直接投入使用的网站。"
+    },
+    "showcase": {
+      "title": "作品展示",
+      "description": "由 Olzytech Solutions 设计、开发并部署的部分网站与网页应用。"
+    },
+    "pricing": {
+      "title": "价格",
+      "description": "为马来西亚、新加坡和香港的中小企业与初创公司提供透明的网站开发、网站改版与数据分析仪表板报价，按简单、中等、复杂三个级别划分。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "告诉 Olzytech Solutions 您的项目。我们会在一个工作日内回复，并提供下一步建议和大致报价。"
+    }
+  },
+  "common": {
+    "skipToContent": "跳到主要内容",
+    "primaryNavigation": "主导航",
+    "nav": {
+      "home": "首页",
+      "about": "关于",
+      "showcase": "作品",
+      "pricing": "价格",
+      "contact": "联系"
+    },
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "language": "语言",
+    "startProject": "开始项目",
+    "startFreeNow": "免费咨询",
+    "viewShowcase": "查看我们的作品",
+    "viewAllWork": "查看全部作品",
+    "seePricing": "查看价格",
+    "learnMore": "了解更多",
+    "getInTouch": "联系我们",
+    "visitSite": "查看项目",
+    "decorative": "示意预览"
+  },
+  "home": {
+    "hero": {
+      "badge": "设计 · 开发 · 上线",
+      "titleLine1": "值得被谈论的",
+      "titleLine2": "网站",
+      "subtitle": "Olzytech Solutions 把您的想法从最初的需求变成快速、精美、已上线的网站，由同一个团队负责每一个环节。",
+      "cards": {
+        "performance": {
+          "title": "性能",
+          "value": "98",
+          "caption": "Lighthouse 得分"
+        },
+        "uptime": {
+          "title": "正常运行时间",
+          "value": "99.98%",
+          "caption": "今日更新"
+        },
+        "pipeline": {
+          "title": "项目进度",
+          "value": "已可上线",
+          "design": "设计",
+          "build": "开发"
+        },
+        "milestones": {
+          "title": "里程碑",
+          "seeAll": "查看全部",
+          "items": {
+            "requirements": "需求",
+            "design": "设计系统",
+            "build": "开发"
+          }
+        },
+        "release": {
+          "title": "下一次发布",
+          "name": "正式环境部署",
+          "remaining": "还剩 2 项检查",
+          "seeAll": "查看全部"
+        }
+      }
+    },
+    "trust": {
+      "label": "采用现代网页技术栈构建",
+      "items": [
+        "Next.js",
+        "React",
+        "Vue.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "GraphQL",
+        "Vercel",
+        "Cloudflare",
+        "AWS"
+      ]
+    },
+    "services": {
+      "eyebrow": "我们的服务",
+      "title": "从像素到上线，一站搞定",
+      "description": "从第一次沟通到最终上线及之后，我们为您设计、开发并维护网站，让您专注于自己的业务。",
+      "items": [
+        {
+          "title": "网站设计",
+          "description": "独具特色的 UI/UX、设计系统和贴合品牌的视觉，在每种屏幕上都清晰出众，并把访客转化为客户。"
+        },
+        {
+          "title": "网站开发",
+          "description": "采用现代框架和整洁、易维护的代码，打造快速、无障碍且利于 SEO 的网站与网页应用。"
+        },
+        {
+          "title": "需求与规划",
+          "description": "我们把想法整理成清晰的范围、网站地图、用户流程和时间表，避免日后出现意外。"
+        },
+        {
+          "title": "部署与托管",
+          "description": "妥善配置 CI/CD 流程、域名、SSL、监控和云托管，并附上文档完整交接。"
+        },
+        {
+          "title": "SEO 与性能",
+          "description": "技术 SEO、Core Web Vitals 优化、结构化数据与分析，让人们找得到您，也愿意留下来。"
+        },
+        {
+          "title": "维护与支持",
+          "description": "上线后的更新、备份、安全补丁和持续改进。我们继续做您的网站团队。"
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "我们的流程",
+      "title": "从空白页到上线，只需五步",
+      "description": "流程可预期，里程碑固定，定期演示，让您随时了解项目进展。",
+      "steps": [
+        {
+          "title": "探索",
+          "description": "与您一起梳理目标、受众和需求，并交付项目范围、网站地图和固定时间表。"
+        },
+        {
+          "title": "设计",
+          "description": "线框图、视觉方向和可点击的原型，在写任何代码之前让您先体验和反馈。"
+        },
+        {
+          "title": "开发",
+          "description": "组件化开发、CMS 集成和内容迁移，每个迭代都有演示。"
+        },
+        {
+          "title": "上线",
+          "description": "质量、性能和无障碍检查，然后零停机部署到正式环境。"
+        },
+        {
+          "title": "增长",
+          "description": "数据分析、SEO 和持续优化，让网站随着业务成长始终保持领先。"
+        }
+      ]
+    },
+    "revamp": {
+      "eyebrow": "网站改版",
+      "title": "同一门生意，全新的第一印象",
+      "description": "我们的客户案例之一：一个线上补习品牌，我们从零开始重新设计并重建了它的网站。拖动滑块即可对比旧版与新版首页。",
+      "before": "改版前",
+      "after": "改版后",
+      "hint": "拖动对比",
+      "slider": "对比旧网站与新网站",
+      "beforeAlt": "旧版首页：版面朴素，配有大幅照片、过大的标题和基础导航栏",
+      "afterAlt": "新版首页：现代版面，标题清晰，配有插画主视觉、信任徽章和醒目的行动按钮",
+      "changesTitle": "我们做了哪些改变",
+      "changes": [
+        {
+          "title": "多语言翻译",
+          "description": "网站现在支持多种语言，家长可以用自己最习惯的语言阅读所有内容。"
+        },
+        {
+          "title": "现代化 UI 设计",
+          "description": "清爽统一的新外观，版面简洁、插画活泼、字体清晰，取代了原先朴素的设计。"
+        },
+        {
+          "title": "更多用户互动",
+          "description": "动态信任徽章、流畅的过渡效果和悬浮的免费试听提示，让访客保持参与，并引导他们报名。"
+        },
+        {
+          "title": "更快联系客户支持",
+          "description": "始终可见的报名和联系按钮，一键即可联系团队。"
+        }
+      ]
+    },
+    "manifesto": {
+      "eyebrow": "我们的理念",
+      "text": "我们相信，网站不只是一堆像素。它是您的**第一印象**、您最好的**销售员**，也是您最繁忙的**门店**。所以我们用心设计，追求**速度**去构建，并细心部署，让每一次访问都成为您业务的**动力**。"
+    },
+    "stats": {
+      "items": [
+        {
+          "value": "5+",
+          "label": "年网页设计与开发经验"
+        },
+        {
+          "value": "10+",
+          "label": "个已上线项目"
+        },
+        {
+          "value": "95+",
+          "label": "每个项目的 Lighthouse 目标分数"
+        },
+        {
+          "value": "100%",
+          "label": "适配移动端、为 SEO 优化的网站"
+        }
+      ]
+    },
+    "showcase": {
+      "eyebrow": "精选作品",
+      "title": "让人眼前一亮，更让访客变成客户",
+      "description": "我们为有志向的团队打造的部分网站与网页应用。"
+    },
+    "faq": {
+      "eyebrow": "常见问题",
+      "title": "您想问的，我们都回答了",
+      "items": [
+        {
+          "question": "一个普通网站需要多长时间？",
+          "answer": "一个聚焦的营销网站通常需要 3 到 6 周，从启动到上线。较大的网页应用会分阶段进行，让您尽早看到可运行的软件。"
+        },
+        {
+          "question": "你们负责托管和部署吗？",
+          "answer": "是的。我们会设置域名、SSL、托管和 CI/CD 流程，并交付完整文档。我们也可以继续替您管理。"
+        },
+        {
+          "question": "我的网站可以支持多种语言吗？",
+          "answer": "当然可以。我们的网站内置完善的本地化，包括翻译后的路由、hreflang 标签和各语言 SEO，支持英文、马来文、中文等。"
+        },
+        {
+          "question": "我可以自己编辑内容吗？",
+          "answer": "这正是我们的计划。我们会整合适合您团队的无头 CMS 或管理后台，并教您使用。"
+        },
+        {
+          "question": "开始之前需要我提供什么？",
+          "answer": "只需一份简短的说明：您的目标、受众、品牌素材和喜欢的参考案例。其余的我们会在咨询通话中带您完成。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "您的下一个好点子，值得一个出色的网站",
+      "description": "告诉我们您的项目，一个工作日内即可获得清晰的方案和大致报价。",
+      "primary": "开始项目",
+      "secondary": "查看价格"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "关于我们",
+      "title": "小而资深的团队，痴迷于网页的匠心",
+      "description": "Olzytech Solutions 是一家网站设计与开发工作室。我们把用心的设计、严谨的工程和清晰的沟通结合起来，交付真正出色的网站。"
+    },
+    "story": {
+      "eyebrow": "我们的故事",
+      "title": "好网站不该是奢侈品",
+      "paragraphs": [
+        "太多企业不得不同时协调设计师、开发者和托管商，而这几方从不沟通。Olzytech Solutions 就是为了解决这个问题而成立的：从最初的需求到部署及之后，由同一个负责任的团队全程负责。",
+        "我们服务初创公司、中小企业和成熟品牌，并把每个项目都当作自己的产品来对待：有可衡量的目标、坦诚的时间表，不讲空话。"
+      ]
+    },
+    "values": {
+      "eyebrow": "我们的信念",
+      "title": "每一个像素背后的信念",
+      "items": [
+        {
+          "title": "AI 是工具，而非匠人",
+          "description": "我们用 AI 加快进度，再由人来设计、审核与决策。速度属于您，责任由我们承担。"
+        },
+        {
+          "title": "创新是金",
+          "description": "我们不断探索更好的创意与新技术，让您的业务脱颖而出，而不是泯然众人。"
+        },
+        {
+          "title": "性能是一项功能",
+          "description": "页面快速、界面无障碍、SEO 扎实，都是我们对“完成”的定义的一部分。"
+        },
+        {
+          "title": "是伙伴，而不是供应商",
+          "description": "范围清晰、进度坦诚，上线之后我们依然紧密相伴，与您的业务一同成长。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "一起打造让人记住的作品",
+      "description": "分享您的想法，我们会规划出从概念到上线的最快路径。",
+      "primary": "联系我们"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "eyebrow": "作品展示",
+      "title": "不说空话，看作品",
+      "description": "从设计、开发到部署，全程完成的网站与网页应用。"
+    },
+    "filters": {
+      "all": "全部"
+    },
+    "sections": {
+      "websites": {
+        "eyebrow": "网站",
+        "title": "为第一印象而生的网站",
+        "description": "快速、注重转化的网站，帮助企业被找到并获得询盘。"
+      },
+      "dashboards": {
+        "eyebrow": "复杂项目",
+        "title": "让数据一目了然的仪表盘与应用",
+        "description": "为需要超越网站的团队打造的更大型、数据驱动的系统。"
+      }
+    },
+    "categories": {
+      "fintech": "金融科技应用",
+      "education": "教育",
+      "property": "房产",
+      "energy": "人工智能与能源",
+      "business": "商业服务",
+      "analytics": "数据分析仪表板",
+      "donation": "捐赠平台",
+      "academy": "学院管理"
+    },
+    "labels": {
+      "result": "亮点",
+      "visit": "访问网站",
+      "newTab": "（在新标签页打开）",
+      "completed": "完成于",
+      "comingSoon": "即将推出"
+    },
+    "projects": [
+      {
+        "slug": "cashflow",
+        "name": "Cashflow",
+        "category": "fintech",
+        "summary": "一款个人理财应用的营销网站，按发薪周期追踪资金，并在信用卡结账日之前提醒您。",
+        "result": "App Store 与 Google Play 下载转化路径，支持浅色与深色主题",
+        "tags": [
+          "落地页",
+          "手机应用",
+          "深色模式"
+        ]
+      },
+      {
+        "slug": "sgmathwizard",
+        "name": "Singapore Math Wizard",
+        "category": "education",
+        "summary": "为马来西亚最大的线上新加坡数学补习中心全面改版，旨在把家长转化为报名用户。",
+        "result": "首屏信任徽章、免费试听提示和语言切换",
+        "tags": [
+          "改版",
+          "落地页",
+          "教育"
+        ]
+      },
+      {
+        "slug": "juststayliving",
+        "name": "Just Stay Living",
+        "category": "property",
+        "summary": "一家居家翻新与租赁管理服务的网站，帮助业主管理单位、追踪租客并提高收益。",
+        "result": "报价行动按钮、好评证明和一键 WhatsApp 聊天",
+        "tags": [
+          "企业网站",
+          "获客",
+          "WhatsApp"
+        ]
+      },
+      {
+        "slug": "wind-turbine-inspection",
+        "name": "Wind Turbine Inspection",
+        "category": "energy",
+        "summary": "一个由人工智能驱动的风力涡轮机自主巡检平台的产品网站，说明它解决的问题及运作方式。",
+        "result": "以数据为主的首屏，配有实时风格的统计、服务和价格板块",
+        "tags": [
+          "产品网站",
+          "AI",
+          "能源"
+        ]
+      },
+      {
+        "slug": "exbiz",
+        "name": "Exbiz",
+        "category": "business",
+        "summary": "一家企业设立服务的网站，负责法律注册、会计与财务，让创办人专注于增长。",
+        "result": "醒目的免费咨询行动按钮，配有客户评价和常见问题",
+        "tags": [
+          "企业网站",
+          "获客",
+          "WhatsApp"
+        ]
+      },
+      {
+        "slug": "sgmathwizard-dashboard",
+        "name": "Singapore Math Wizard 仪表板",
+        "category": "analytics",
+        "summary": "为 Singapore Math Wizard 打造的完整而复杂的数据分析仪表板应用，让团队在一个安全的地方管理并了解业务。",
+        "result": "带安全团队登录的完整网页应用，与改版后的网站同步构建",
+        "tags": [
+          "数据分析仪表板",
+          "网页应用",
+          "安全登录",
+          "支付网关",
+          "多角色权限"
+        ]
+      },
+      {
+        "slug": "ripples",
+        "name": "Ripples",
+        "category": "donation",
+        "summary": "集捐赠与管理于一体的平台。筹款人发起活动并管理捐赠者，捐赠者则可安全捐款，并清楚看到每一笔钱的去向。",
+        "result": "活动页面、捐赠者与筹款人后台，以及透明的善款影响报告",
+        "tags": [
+          "捐赠平台",
+          "网页应用",
+          "捐赠者管理",
+          "筹款人工具",
+          "支付网关"
+        ]
+      },
+      {
+        "slug": "zonnetix",
+        "name": "Zonnetix",
+        "category": "academy",
+        "summary": "一套学院管理系统，在一个地方处理学生、缴费、教室、课表等事务，让补习中心和学校少花时间在行政上。",
+        "result": "学生档案、学费与付款跟踪、教室排课，以及可直接发给家长的报告",
+        "tags": [
+          "学院管理",
+          "网页应用",
+          "学生档案",
+          "缴费",
+          "教室"
+        ]
+      }
+    ],
+    "stack": {
+      "eyebrow": "我们的做法",
+      "title": "从空白页面到爆款网站",
+      "description": "把每一步拖到页面上，看一张空白页面成长为经过设计、开发、测试并能被搜到的网站。这正是我们为每位客户走的路径。",
+      "demo": {
+        "prompt": "把每一步拖到页面上，从创意一路到上线",
+        "promptDone": "从创意到上线，九步完成：规划、设计、开发、测试、上线，并被人找到。",
+        "reset": "重新开始",
+        "applied": "已应用",
+        "stageLabel": "互动演示：把从创意到 SEO 的九个步骤拖到一个空白网页上，看它成长为一个已上线、经过测试并持续获得访客的网站。",
+        "dropHint": "松开即可应用",
+        "tools": {
+          "idea": {
+            "label": "创意",
+            "action": "把创意加到页面",
+            "result": "创意：每个好网站都始于一个清晰的问题，以及一句能说清它的话。",
+            "hint": "用一句话定义目标"
+          },
+          "requirements": {
+            "label": "需求",
+            "action": "把需求加到页面",
+            "result": "需求：我们把创意变成页面、功能和大家认同的目标。",
+            "hint": "拆成页面和功能"
+          },
+          "prototype": {
+            "label": "原型",
+            "action": "把原型加到页面",
+            "result": "原型：线框图让您在投入设计之前，先验证流程。",
+            "hint": "设计之前先画出流程"
+          },
+          "design": {
+            "label": "设计",
+            "action": "为页面应用设计",
+            "result": "设计：版式、字体与色彩，把线框图变成令人记住的品牌。",
+            "hint": "打造令人记住的外观"
+          },
+          "backend": {
+            "label": "后端",
+            "action": "把后端加到页面",
+            "result": "后端：接口处理订单、账户与业务逻辑，让网站真正做事。",
+            "hint": "加入真正干活的逻辑"
+          },
+          "database": {
+            "label": "数据库",
+            "action": "把数据库加到页面",
+            "result": "数据库：菜单、价格与客户数据被安全存储，毫秒级返回。",
+            "hint": "存放菜单、价格与客户"
+          },
+          "testing": {
+            "label": "测试",
+            "action": "对页面运行测试",
+            "result": "测试：自动化检查在客户发现之前，先在每种设备上找出缺陷。",
+            "hint": "在每种设备上抓出缺陷"
+          },
+          "deploy": {
+            "label": "部署",
+            "action": "将页面部署上线",
+            "result": "部署：网站在您自己的域名上线，安全，并且全球访问都很快。",
+            "hint": "在您自己的域名上线"
+          },
+          "seo": {
+            "label": "SEO",
+            "action": "为页面应用 SEO",
+            "result": "SEO：搜索引擎读懂您的页面，合适的访客开始涌入。",
+            "hint": "被合适的访客找到"
+          }
+        },
+        "scene": {
+          "brand": "Brew & Co",
+          "links": [
+            "首页",
+            "关于",
+            "菜单",
+            "联系"
+          ],
+          "styledTitle": "咖啡，慢慢做。",
+          "styledBody": "小批量烘焙，按它应有的方式冲泡。",
+          "styledButton": "立即下单",
+          "cards": [
+            "意式浓缩",
+            "手冲",
+            "冷萃"
+          ],
+          "offline": "离线",
+          "live": "在线",
+          "visitors": "访客",
+          "searchTitle": "Brew & Co | 城里最好的咖啡",
+          "searchSnippet": "小批量烘焙，慢慢冲泡。每天营业。",
+          "blank": "这里还什么都没有",
+          "ideaTitle": "创意",
+          "ideaNote": "为我们的咖啡店做一个网站：展示菜单，支持在线下单。",
+          "reqTitle": "需求",
+          "reqItems": [
+            "首页、菜单和联系页面",
+            "在线下单",
+            "适配所有手机",
+            "快速且容易被搜到"
+          ],
+          "orderToast": "新订单 #1042",
+          "testsTitle": "测试",
+          "tests": [
+            "结账流程",
+            "移动端布局",
+            "表单",
+            "无障碍"
+          ],
+          "passed": "通过"
+        },
+        "step": "步骤",
+        "dragHint": "拖到页面上",
+        "done": {
+          "title": "已上线！",
+          "hint": "所有步骤均已应用"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "hero": {
+      "eyebrow": "价格",
+      "title": "价格简单透明，网站更有成效",
+      "description": "选择与您项目相符的级别：简单、中等或复杂。网站开发、改版和数据分析仪表板都按此方式划定范围。价格以您所在地的货币显示，每个项目都从免费咨询开始。"
+    },
+    "audience": {
+      "eyebrow": "适合谁",
+      "title": "为正在成长的个人与企业而生",
+      "description": "我们的方案专为马来西亚、新加坡和香港的个人、初创公司以及中小企业设计。",
+      "items": [
+        {
+          "title": "个人",
+          "description": "为个人打造精美的作品集或简历网站，展示您的作品，让雇主和客户注意到您。"
+        },
+        {
+          "title": "初创公司",
+          "description": "用固定范围的 MVP 或可向投资人展示的网站快速上线，之后再逐步扩展。"
+        },
+        {
+          "title": "中小企业",
+          "description": "专业的网站能建立信任、带来询盘，并随业务成长而不断升级。"
+        }
+      ]
+    },
+    "regionLabel": "选择您的市场",
+    "regions": {
+      "my": {
+        "label": "马来西亚",
+        "note": "以马来西亚令吉（MYR）结算，适用时另加 SST。价格为参考起步价。"
+      },
+      "sg": {
+        "label": "新加坡",
+        "note": "以新加坡元（SGD）结算，适用时另加 GST。价格为参考起步价。"
+      },
+      "hk": {
+        "label": "香港",
+        "note": "以港元（HKD）结算。价格为参考起步价，不含任何适用税项。"
+      }
+    },
+    "comingSoon": "即将推出",
+    "from": "起",
+    "popular": "最受欢迎",
+    "packages": {
+      "eyebrow": "价格",
+      "title": "选择您的起飞平台",
+      "description": "每个项目都按简单、中等或复杂划定范围。最终费用会在免费咨询后的方案中确认。"
+    },
+    "levels": {
+      "simple": {
+        "name": "简单",
+        "fits": "小型网站、快速翻新和单一数据源的仪表板",
+        "description": "最快上线或为现有内容焕新的方式。",
+        "features": [
+          "网站：最多 5 个页面，定制响应式设计",
+          "改版：为现有页面换上新外观，并设置重定向以保护 SEO",
+          "仪表板：1 个数据源，最多 3 个视图",
+          "基础页面 SEO、部署与 SSL",
+          "上线后 2 周支持"
+        ]
+      },
+      "moderate": {
+        "name": "中等",
+        "fits": "企业网站、完整改版和多数据源仪表板",
+        "description": "完整的解决方案，旨在提升排名、促进转化并伴随业务成长。",
+        "features": [
+          "网站：最多 15 个页面，含多语言设置",
+          "改版：全新结构、内容迁移和 SEO 审计",
+          "仪表板：最多 3 个数据源、用户角色和定时报告",
+          "技术 SEO、数据分析与性能优化",
+          "3 个月支持"
+        ]
+      },
+      "complex": {
+        "name": "复杂",
+        "fits": "网页应用、网店、平台重建和数据分析平台",
+        "description": "量身定制、深度集成，并能随您的业务扩展。",
+        "features": [
+          "网站：含账户、支付和集成的定制网页应用或网店",
+          "改版：全面重建，含平台与数据迁移",
+          "仪表板：数据管道、实时数据和高级分析",
+          "云架构、安全审查和自动化测试",
+          "专属项目负责人",
+          "6 个月支持"
+        ]
+      }
+    },
+    "choose": "选择",
+    "oneOff": "一次性项目",
+    "addons": {
+      "eyebrow": "附加服务",
+      "title": "为任何套餐锦上添花",
+      "description": "按您的业务需要自由搭配。价格为起步价，视范围而定。",
+      "items": [
+        {
+          "id": "language",
+          "name": "额外语言",
+          "description": "翻译页面、本地化网址和各语言 SEO。",
+          "unit": "每种语言"
+        },
+        {
+          "id": "revamp",
+          "name": "设计改版",
+          "description": "为您现有的网站换上全新外观：更新版面、配色和字体。",
+          "unit": "起"
+        },
+        {
+          "id": "brand",
+          "name": "标志与品牌套件",
+          "description": "标志、配色和字体，作为网站设计的基础。",
+          "unit": "一次性"
+        },
+        {
+          "id": "cms",
+          "name": "CMS 集成",
+          "description": "接入内容管理系统，让您自己编辑页面、文字和图片。",
+          "unit": "一次性"
+        },
+        {
+          "id": "payments",
+          "name": "支付网关",
+          "description": "在您的网站上安全地接受银行卡和本地支付方式。",
+          "unit": "一次性"
+        },
+        {
+          "id": "seo",
+          "name": "一次性 SEO",
+          "description": "对您的网站进行一次 SEO 检查，并一次性完成优化。",
+          "unit": "一次性"
+        }
+      ]
+    },
+    "consultation": {
+      "eyebrow": "免费咨询",
+      "title": "先聊聊，免费",
+      "description": "不确定哪个方案适合？预约一次没有任何义务的通话，我们会帮您选择。您将获得：",
+      "includesTitle": "包含内容",
+      "items": [
+        "与我们资深团队成员进行 30 分钟视频或电话沟通",
+        "了解您的目标、受众、竞争对手和现有网站",
+        "推荐方案，并以您的货币给出大致报价",
+        "建议的网站地图和您业务所需的关键页面",
+        "关于功能、域名、托管和合适技术的建议",
+        "2 个工作日内提供书面总结和清晰的下一步",
+        "没有任何义务，也没有销售压力"
+      ],
+      "cta": "预约免费咨询",
+      "note": "马来西亚、新加坡和香港的企业均可免费。通话按您所在地的时间安排。"
+    },
+    "testimonials": {
+      "eyebrow": "客户故事",
+      "title": "不必只听我们说",
+      "description": "来自我们曾为其打造网站的企业的反馈。",
+      "draft": "草稿：等待客户确认",
+      "items": {
+        "cashflow": {
+          "quote": "Olzytech 从第一次通话就理解了我们的产品。新网站几秒钟就把 Cashflow 讲清楚了，人们也能立刻找到我们的 App Store 和 Google Play 链接。",
+          "name": "创办人",
+          "role": "Cashflow"
+        },
+        "sgmathwizard": {
+          "quote": "这次改版让我们的品牌显得可信得多。家长现在一眼就能看到我们的老师、成果和免费试听，报名也很简单。",
+          "name": "董事",
+          "role": "Singapore Math Wizard"
+        },
+        "juststayliving": {
+          "quote": "他们把我们的服务变成了清晰、专业的网站。报价按钮和 WhatsApp 聊天让业主很容易联系到我们。",
+          "name": "创办人",
+          "role": "Just Stay Living"
+        }
+      }
+    },
+    "faq": {
+      "title": "价格问题，直接回答",
+      "items": [
+        {
+          "question": "我怎么知道项目是简单、中等还是复杂？",
+          "answer": "简单项目只有几个页面或一个数据源。中等项目会加入 CMS、多种语言，或多个数据源和用户角色。复杂项目涉及定制功能、账户、支付、集成或海量数据。我们会在免费咨询中确认级别并给出固定报价。"
+        },
+        {
+          "question": "你们服务新加坡和香港的企业吗？",
+          "answer": "是的。我们远程服务马来西亚、新加坡和香港的中小企业与初创公司。通话按您所在地的时间进行，并以您当地的货币结算。"
+        },
+        {
+          "question": "为什么各国价格不同？",
+          "answer": "价格反映当地市场行情和结算货币。每个市场的范围、质量和流程都是一样的。"
+        },
+        {
+          "question": "项目如何收费？",
+          "answer": "通常是启动时 40%、设计确认时 40%、上线时 20%。较大的项目按里程碑收费。"
+        },
+        {
+          "question": "方案价格不包括什么？",
+          "answer": "域名注册、第三方许可和付费托管套餐按成本收取，并另加适用税项。我们会在规划阶段提前说明。"
+        },
+        {
+          "question": "以后可以升级吗？",
+          "answer": "可以。先从简单范围开始，之后再升级到中等或复杂。我们打好基础，让您无需推倒重来。"
+        },
+        {
+          "question": "上线之后会怎样？",
+          "answer": "每个级别都包含一段支持期（2 周、3 个月或 6 个月）。如果之后还需要持续协助，我们可以在咨询时商定每月支持安排。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "不知从何开始？我们来指路",
+      "description": "预约免费咨询，我们会根据您的目标和预算推荐合适的范围。",
+      "primary": "预约免费咨询"
+    },
+    "custom": "定制",
+    "customNote": "根据您的项目量身定制，免费咨询后报价",
+    "contactSales": "联系销售支持"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "联系",
+      "title": "有想法？让我们把它变成现实",
+      "description": "分享一些细节，我们会在一个工作日内回复，并提供下一步建议和大致报价。"
+    },
+    "info": {
+      "title": "更想直接联系我们？",
+      "email": "电子邮件",
+      "phone": "电话",
+      "hours": "办公时间",
+      "hoursValue": "周一至周五，9:00 至 18:00（马来西亚时间）",
+      "location": "所在地",
+      "locationValue": "马来西亚 · 服务全球",
+      "responseTitle": "接下来会怎样",
+      "steps": [
+        "我们会查看您的需求说明，并在一个工作日内回复。",
+        "一次免费的 30 分钟探索通话，对齐目标。",
+        "您将收到清晰的方案、时间表和固定报价。"
+      ]
+    },
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "陈美玲",
+      "email": "电子邮件",
+      "emailPlaceholder": "you@company.com",
+      "company": "公司（选填）",
+      "companyPlaceholder": "您的公司",
+      "service": "我感兴趣的是",
+      "choose": "请选择…",
+      "serviceOptions": {
+        "design": "网站设计",
+        "development": "网站开发",
+        "fullservice": "全流程（从需求到上线）",
+        "seo": "SEO 与性能",
+        "other": "其他"
+      },
+      "budget": "预算",
+      "budgetOptions": {
+        "under2": "RM 2,000 以下",
+        "2to5": "RM 2,000 至 5,000",
+        "5to15": "RM 5,000 至 15,000",
+        "over15": "RM 15,000 以上"
+      },
+      "message": "项目详情",
+      "messagePlaceholder": "告诉我们您的目标、时间安排，以及任何我们应该知道的事…",
+      "consent": "提交此表单即表示您同意我们就您的咨询与您联系。",
+      "submit": "发送信息",
+      "submitting": "发送中…",
+      "successTitle": "信息已发送",
+      "successBody": "谢谢！我们会在一个工作日内与您联系。",
+      "errorGeneric": "出了点问题。请重试，或直接给我们发送电子邮件。",
+      "errors": {
+        "name": "请输入您的姓名。",
+        "email": "请输入有效的电子邮件地址。",
+        "message": "请再多写一点（至少 5 个字）。",
+        "service": "请选择一项服务。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "为未来而打造的网站。从设计、开发到部署，全程负责。",
+    "explore": "探索",
+    "services": "服务",
+    "connect": "联系方式",
+    "serviceLinks": [
+      "网站设计",
+      "网站开发",
+      "部署与托管",
+      "SEO 与性能"
+    ],
+    "rights": "版权所有。",
+    "madeIn": "马来西亚制造",
+    "whatsappMessage": "您好 Olzytech，我想了解一下你们的网站服务。"
+  }
+}

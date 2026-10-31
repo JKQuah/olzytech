@@ -1,0 +1,846 @@
+{
+  "meta": {
+    "siteName": "Olzytech Solutions",
+    "titleTemplate": "%s | Olzytech Solutions",
+    "defaultDescription": "Olzytech Solutions designs and builds fast, beautiful websites, from first requirement to live deployment.",
+    "home": {
+      "title": "Website Design & Development, From Requirement to Deployment",
+      "description": "Olzytech Solutions designs, builds and deploys fast, SEO-ready websites and web apps. One team, one process, from the first requirement to launch day."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Meet Olzytech Solutions, a small, senior web team that turns requirements into fast, beautiful, production-ready websites."
+    },
+    "showcase": {
+      "title": "Showcase",
+      "description": "A selection of websites and web apps designed, developed and deployed by Olzytech Solutions."
+    },
+    "pricing": {
+      "title": "Pricing",
+      "description": "Transparent pricing for website development, website redesign and analytics dashboards, split into simple, moderate and complex projects, for SMEs and startups in Malaysia, Singapore and Hong Kong."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Tell Olzytech Solutions about your project. We reply within one business day with next steps and a ballpark estimate."
+    }
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "primaryNavigation": "Primary navigation",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "showcase": "Showcase",
+      "pricing": "Pricing",
+      "contact": "Contact"
+    },
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "startProject": "Start a project",
+    "startFreeNow": "Start free consultation",
+    "viewShowcase": "View our work",
+    "viewAllWork": "See all work",
+    "seePricing": "See pricing",
+    "learnMore": "Learn more",
+    "getInTouch": "Get in touch",
+    "visitSite": "View project",
+    "decorative": "Illustrative preview"
+  },
+  "home": {
+    "hero": {
+      "badge": "Design · Develop · Deploy",
+      "titleLine1": "Websites Worth",
+      "titleLine2": "Talking About",
+      "subtitle": "Olzytech Solutions takes your idea from first requirement to a fast, beautiful, live website, with one team owning every step.",
+      "cards": {
+        "performance": {
+          "title": "Performance",
+          "value": "98",
+          "caption": "Lighthouse score"
+        },
+        "uptime": {
+          "title": "Uptime",
+          "value": "99.98%",
+          "caption": "updated today"
+        },
+        "pipeline": {
+          "title": "Project Pipeline",
+          "value": "Launch ready",
+          "design": "Design",
+          "build": "Development"
+        },
+        "milestones": {
+          "title": "Milestones",
+          "seeAll": "See all",
+          "items": {
+            "requirements": "Requirements",
+            "design": "Design system",
+            "build": "Development"
+          }
+        },
+        "release": {
+          "title": "Next release",
+          "name": "Production deploy",
+          "remaining": "2 checks left",
+          "seeAll": "See all"
+        }
+      }
+    },
+    "trust": {
+      "label": "Built with the modern web stack",
+      "items": [
+        "Next.js",
+        "React",
+        "Vue.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "GraphQL",
+        "Vercel",
+        "Cloudflare",
+        "AWS"
+      ]
+    },
+    "services": {
+      "eyebrow": "What we do",
+      "title": "Pixels to production, all under one roof",
+      "description": "From the first conversation to the final deploy and beyond, we design, build and look after your website so you can focus on your business.",
+      "items": [
+        {
+          "title": "Website Design",
+          "description": "Distinctive UI/UX, design systems and brand-aligned visuals that look sharp on every screen and convert visitors into customers."
+        },
+        {
+          "title": "Website Development",
+          "description": "Fast, accessible, SEO-ready sites and web apps built with modern frameworks and clean, maintainable code."
+        },
+        {
+          "title": "Requirements & Planning",
+          "description": "We turn ideas into a clear scope, sitemap, user flows and timeline, so there are no surprises later."
+        },
+        {
+          "title": "Deployment & Hosting",
+          "description": "CI/CD pipelines, domains, SSL, monitoring and cloud hosting configured properly and handed over with documentation."
+        },
+        {
+          "title": "SEO & Performance",
+          "description": "Technical SEO, Core Web Vitals tuning, structured data and analytics so people can find you and stay."
+        },
+        {
+          "title": "Care & Maintenance",
+          "description": "Updates, backups, security patches and iterative improvements after launch. We stay on as your web team."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "How we work",
+      "title": "Five steps from blank page to live site",
+      "description": "A predictable process with fixed milestones and regular demos, so you always know where your project stands.",
+      "steps": [
+        {
+          "title": "Discover",
+          "description": "Workshop your goals, audience and requirements. We deliver scope, sitemap and a fixed timeline."
+        },
+        {
+          "title": "Design",
+          "description": "Wireframes, visual direction and a clickable prototype you can react to before any code is written."
+        },
+        {
+          "title": "Build",
+          "description": "Component-driven development, CMS integration and content migration, demoed every sprint."
+        },
+        {
+          "title": "Launch",
+          "description": "QA, performance and accessibility checks, then a zero-downtime deployment to production."
+        },
+        {
+          "title": "Grow",
+          "description": "Analytics, SEO and continuous improvement to keep your site ahead as your business grows."
+        }
+      ]
+    },
+    "revamp": {
+      "eyebrow": "Website revamp",
+      "title": "Same business. Brand-new first impression.",
+      "description": "One of our client projects: an online tutoring brand whose website we redesigned and rebuilt from the ground up. Drag the slider to compare the old homepage with the new one.",
+      "before": "Before",
+      "after": "After",
+      "hint": "Drag to compare",
+      "slider": "Compare the old website with the new website",
+      "beforeAlt": "The old homepage: a plain layout with a large photo, oversized headings and a basic navigation bar",
+      "afterAlt": "The new homepage: a modern layout with a clear headline, illustrated hero, trust badges and a prominent call-to-action button",
+      "changesTitle": "What we changed",
+      "changes": [
+        {
+          "title": "Language translation",
+          "description": "The site now speaks more than one language, so parents can read everything in the language they are most comfortable with."
+        },
+        {
+          "title": "Modern UI design",
+          "description": "A fresh, consistent look with clean layouts, playful illustrations and clear typography replaces the old, plain design."
+        },
+        {
+          "title": "More user interaction",
+          "description": "Animated trust badges, smooth transitions and a floating free-trial prompt keep visitors engaged and guide them to sign up."
+        },
+        {
+          "title": "Direct to customer support",
+          "description": "Always-visible mascot call-to-action and contact buttons put the team one tap away."
+        }
+      ]
+    },
+    "manifesto": {
+      "eyebrow": "Our approach",
+      "text": "We believe a website is more than pixels. It is your **first impression**, your **best salesperson** and your **busiest storefront**. That is why we design with intent, build for **speed** and deploy with care, so every visit turns into **momentum** for your business."
+    },
+    "stats": {
+      "items": [
+        {
+          "value": "5+",
+          "label": "years of experience in web design and development"
+        },
+        {
+          "value": "10+",
+          "label": "live projects delivered"
+        },
+        {
+          "value": "95+",
+          "label": "Lighthouse score target on every build"
+        },
+        {
+          "value": "100%",
+          "label": "mobile-responsive, SEO-ready builds"
+        }
+      ]
+    },
+    "showcase": {
+      "eyebrow": "Selected work",
+      "title": "Projects that turn heads and win customers",
+      "description": "A glimpse of the websites and web apps we have shaped for ambitious teams."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Everything you wanted to ask, answered",
+      "items": [
+        {
+          "question": "How long does a typical website take?",
+          "answer": "A focused marketing website usually takes 3 to 6 weeks from kickoff to launch. Larger web apps are scoped in phases so you see working software early."
+        },
+        {
+          "question": "Do you handle hosting and deployment?",
+          "answer": "Yes. We set up your domain, SSL, hosting and CI/CD pipeline, then hand over full documentation. We can also keep managing it for you."
+        },
+        {
+          "question": "Can my website support multiple languages?",
+          "answer": "Absolutely. Our sites ship with proper localisation, including translated routes, hreflang tags and per-language SEO, ready for English, Bahasa Melayu and more."
+        },
+        {
+          "question": "Will I be able to edit the content myself?",
+          "answer": "That's the plan. We integrate a headless CMS or an admin dashboard that fits your team, and train you to use it."
+        },
+        {
+          "question": "What do you need from me to get started?",
+          "answer": "Just a short brief: your goals, audience, any brand assets and examples you like. We'll guide you through the rest in a discovery call."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Your next big idea deserves a remarkable website",
+      "description": "Tell us about your project and get a clear plan and ballpark estimate within one business day.",
+      "primary": "Start a project",
+      "secondary": "See pricing"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About us",
+      "title": "Small team. Senior craft. Obsessed with the web.",
+      "description": "Olzytech Solutions is a website design and development studio. We combine thoughtful design, rigorous engineering and clear communication to ship sites that perform."
+    },
+    "story": {
+      "eyebrow": "Our story",
+      "title": "Great websites shouldn’t be a luxury",
+      "paragraphs": [
+        "Too many businesses end up juggling a designer, a developer and a hosting provider who never talk to each other. Olzytech Solutions was founded to fix that: one accountable team from the very first requirement through to deployment and beyond.",
+        "We work with startups, SMEs and established brands, and we treat every project as if it were our own product: measurable goals, honest timelines and no jargon."
+      ]
+    },
+    "values": {
+      "eyebrow": "What we believe",
+      "title": "The beliefs behind every pixel",
+      "items": [
+        {
+          "title": "AI is a tool, not the creator",
+          "description": "We use AI to move faster, then people design, review and decide. Speed for you, accountability with us."
+        },
+        {
+          "title": "Innovation is gold",
+          "description": "We keep exploring better ideas and modern tech, so your business stands out instead of blending in."
+        },
+        {
+          "title": "Performance is a feature",
+          "description": "Fast pages, accessible interfaces and solid SEO are part of the definition of done."
+        },
+        {
+          "title": "Partners, not vendors",
+          "description": "Clear scope, honest progress, and we stay close after launch to grow with your business."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Let’s build something people remember",
+      "description": "Share your idea and we will map out the fastest route from concept to launch.",
+      "primary": "Talk to us"
+    }
+  },
+  "showcase": {
+    "hero": {
+      "eyebrow": "Showcase",
+      "title": "Proof, not promises: projects from our studio",
+      "description": "Websites and web apps designed, developed and deployed end to end."
+    },
+    "filters": {
+      "all": "All"
+    },
+    "sections": {
+      "websites": {
+        "eyebrow": "Websites",
+        "title": "Websites built for a first impression",
+        "description": "Fast, conversion-focused websites that help businesses get found and get enquiries."
+      },
+      "dashboards": {
+        "eyebrow": "Complex builds",
+        "title": "Dashboards and apps that make data click",
+        "description": "Larger, data-driven systems for teams that need more than a website."
+      }
+    },
+    "categories": {
+      "fintech": "Fintech app",
+      "education": "Education",
+      "property": "Property",
+      "energy": "AI & energy",
+      "business": "Business services",
+      "analytics": "Analytics dashboard",
+      "donation": "Donation platform",
+      "academy": "Academy management"
+    },
+    "labels": {
+      "result": "Highlights",
+      "visit": "Visit website",
+      "newTab": "(opens in a new tab)",
+      "completed": "Completed",
+      "comingSoon": "Coming soon"
+    },
+    "projects": [
+      {
+        "slug": "cashflow",
+        "name": "Cashflow",
+        "category": "fintech",
+        "summary": "Marketing website for a personal-finance app that tracks money by payday cycle and warns you before credit card cutoff dates.",
+        "result": "App Store and Google Play download funnel, with light and dark themes",
+        "tags": [
+          "Landing page",
+          "Mobile app",
+          "Dark mode"
+        ]
+      },
+      {
+        "slug": "sgmathwizard",
+        "name": "Singapore Math Wizard",
+        "category": "education",
+        "summary": "A full redesign for the largest online Singapore Math tutoring centre in Malaysia, built to turn parents into sign-ups.",
+        "result": "Trust badges in the hero, a free-trial prompt and a language switch",
+        "tags": [
+          "Redesign",
+          "Landing page",
+          "Education"
+        ]
+      },
+      {
+        "slug": "juststayliving",
+        "name": "Just Stay Living",
+        "category": "property",
+        "summary": "Website for a home makeover and rental management service that helps property owners manage units, track tenants and maximise income.",
+        "result": "Quotation call to action, review proof and one-tap WhatsApp chat",
+        "tags": [
+          "Business site",
+          "Lead generation",
+          "WhatsApp"
+        ]
+      },
+      {
+        "slug": "wind-turbine-inspection",
+        "name": "Wind Turbine Inspection",
+        "category": "energy",
+        "summary": "Product website for an AI-powered autonomous wind-turbine inspection platform, explaining the problems it solves and how it works.",
+        "result": "Data-led hero with live-style stats, services and pricing sections",
+        "tags": [
+          "Product site",
+          "AI",
+          "Energy"
+        ]
+      },
+      {
+        "slug": "exbiz",
+        "name": "Exbiz",
+        "category": "business",
+        "summary": "Website for a business-setup service that handles legal registration, accounting and finance so founders can focus on growth.",
+        "result": "Bold free-consultation call to action with testimonials and FAQ",
+        "tags": [
+          "Business site",
+          "Lead generation",
+          "WhatsApp"
+        ]
+      },
+      {
+        "slug": "sgmathwizard-dashboard",
+        "name": "Singapore Math Wizard Dashboard",
+        "category": "analytics",
+        "summary": "A complete, complex analytics dashboard app built for Singapore Math Wizard, so the team can manage and understand the business in one secure place.",
+        "result": "A full web app with secure team login, built alongside the redesigned website",
+        "tags": [
+          "Analytics dashboard",
+          "Web app",
+          "Secure login",
+          "Payment gateway",
+          "Multiple roles"
+        ]
+      },
+      {
+        "slug": "ripples",
+        "name": "Ripples",
+        "category": "donation",
+        "summary": "A donation platform and management system in one. Fundraisers launch campaigns and manage their donors, while donors give securely and see exactly where their money goes.",
+        "result": "Campaign pages, donor and fundraiser dashboards, and transparent impact reports",
+        "tags": [
+          "Donation platform",
+          "Web app",
+          "Donor management",
+          "Fundraiser tools",
+          "Payment gateway"
+        ]
+      },
+      {
+        "slug": "zonnetix",
+        "name": "Zonnetix",
+        "category": "academy",
+        "summary": "An academy management system that handles students, payments, classrooms, timetables and more in one place, so tutoring centres and schools spend less time on admin.",
+        "result": "Student records, fee and payment tracking, classroom scheduling and parent-ready reports",
+        "tags": [
+          "Academy management",
+          "Web app",
+          "Student records",
+          "Payments",
+          "Classrooms"
+        ]
+      }
+    ],
+    "stack": {
+      "eyebrow": "How we build",
+      "title": "From blank page to breakout website",
+      "description": "Drag each step onto the page and watch a blank screen grow into a designed, built, tested and discoverable site. It is the same path we follow with every client.",
+      "demo": {
+        "prompt": "Drag each step onto the page, from idea to launch",
+        "promptDone": "From idea to launch in nine steps: planned, designed, built, tested, live and found.",
+        "reset": "Start over",
+        "applied": "applied",
+        "stageLabel": "Interactive demo: drag nine steps, from idea to SEO, onto a blank web page and watch it grow into a live, tested website that gets visitors.",
+        "dropHint": "Drop to apply",
+        "tools": {
+          "idea": {
+            "label": "Idea",
+            "action": "Add the idea to the page",
+            "result": "Idea: every great site starts with a clear problem and one sentence that explains it.",
+            "hint": "Define the goal in one sentence"
+          },
+          "requirements": {
+            "label": "Requirements",
+            "action": "Add the requirements to the page",
+            "result": "Requirements: we turn the idea into pages, features and goals everyone agrees on.",
+            "hint": "Turn it into pages and features"
+          },
+          "prototype": {
+            "label": "Prototype",
+            "action": "Add the prototype to the page",
+            "result": "Prototype: a wireframe lets you test the flow before any design time is spent.",
+            "hint": "Sketch the flow before designing"
+          },
+          "design": {
+            "label": "Design",
+            "action": "Apply design to the page",
+            "result": "Design: layout, type and colour turn the wireframe into a brand people remember.",
+            "hint": "Give it a look people remember"
+          },
+          "backend": {
+            "label": "Backend",
+            "action": "Add the backend to the page",
+            "result": "Backend: APIs handle orders, accounts and logic, so the site does real work.",
+            "hint": "Add the logic that does the work"
+          },
+          "database": {
+            "label": "Database",
+            "action": "Add the database to the page",
+            "result": "Database: menu, prices and customers are stored safely and served in milliseconds.",
+            "hint": "Store menu, prices and customers"
+          },
+          "testing": {
+            "label": "Testing",
+            "action": "Run the tests on the page",
+            "result": "Testing: automated checks catch bugs on every device before your customers do.",
+            "hint": "Catch bugs on every device"
+          },
+          "deploy": {
+            "label": "Deployment",
+            "action": "Deploy the page online",
+            "result": "Deployment: the site goes live on your own domain, secure and fast worldwide.",
+            "hint": "Put it live on your own domain"
+          },
+          "seo": {
+            "label": "SEO",
+            "action": "Apply SEO to the page",
+            "result": "SEO: search engines understand the page, so the right visitors start arriving.",
+            "hint": "Get found by the right visitors"
+          }
+        },
+        "scene": {
+          "brand": "Brew & Co",
+          "links": [
+            "Home",
+            "About",
+            "Menu",
+            "Contact"
+          ],
+          "styledTitle": "Coffee, crafted slowly.",
+          "styledBody": "Small-batch roasts, brewed the way they should be.",
+          "styledButton": "Order now",
+          "cards": [
+            "Espresso",
+            "Filter",
+            "Cold brew"
+          ],
+          "offline": "Offline",
+          "live": "Live",
+          "visitors": "Visitors",
+          "searchTitle": "Brew & Co | Best coffee in town",
+          "searchSnippet": "Small-batch roasts, brewed slowly. Open daily.",
+          "blank": "Nothing here yet",
+          "ideaTitle": "The idea",
+          "ideaNote": "A website for our coffee shop: show the menu and take orders online.",
+          "reqTitle": "Requirements",
+          "reqItems": [
+            "Home, Menu and Contact pages",
+            "Online ordering",
+            "Works on every phone",
+            "Fast and easy to find"
+          ],
+          "orderToast": "New order #1042",
+          "testsTitle": "Tests",
+          "tests": [
+            "Checkout flow",
+            "Mobile layout",
+            "Forms",
+            "Accessibility"
+          ],
+          "passed": "passed"
+        },
+        "step": "Step",
+        "dragHint": "Drag onto the page",
+        "done": {
+          "title": "Launched!",
+          "hint": "Every step applied"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "hero": {
+      "eyebrow": "Pricing",
+      "title": "Simple pricing for websites that work harder",
+      "description": "Choose the level that matches your project: simple, moderate or complex. Website development, redesigns and analytics dashboards are all scoped this way. Prices are shown in your local currency, and every project starts with a free consultation."
+    },
+    "audience": {
+      "eyebrow": "Who it's for",
+      "title": "Made for people and businesses on the rise",
+      "description": "Our packages are designed for individuals, startups, and small and medium businesses in Malaysia, Singapore and Hong Kong.",
+      "items": [
+        {
+          "title": "Personal",
+          "description": "A polished portfolio or resume website for individuals, to showcase your work and get noticed by employers and clients."
+        },
+        {
+          "title": "Startups",
+          "description": "Launch fast with a fixed-scope MVP or an investor-ready website, then keep growing it as your startup grows."
+        },
+        {
+          "title": "SMEs",
+          "description": "A professional website that builds trust, brings in enquiries and keeps up as the business grows."
+        }
+      ]
+    },
+    "regionLabel": "Choose your market",
+    "regions": {
+      "my": {
+        "label": "Malaysia",
+        "note": "Billed in Malaysian Ringgit (MYR). SST is added where applicable. Prices are indicative starting points."
+      },
+      "sg": {
+        "label": "Singapore",
+        "note": "Billed in Singapore Dollars (SGD). GST is added where applicable. Prices are indicative starting points."
+      },
+      "hk": {
+        "label": "Hong Kong",
+        "note": "Billed in Hong Kong Dollars (HKD). Prices are indicative starting points and exclude any applicable taxes."
+      }
+    },
+    "comingSoon": "Soon",
+    "from": "from",
+    "popular": "Most popular",
+    "packages": {
+      "eyebrow": "Pricing",
+      "title": "Choose your launchpad",
+      "description": "Every project is scoped as simple, moderate or complex. Your final fee is confirmed in your proposal after a free consultation."
+    },
+    "levels": {
+      "simple": {
+        "name": "Simple",
+        "fits": "Small sites, quick refreshes and single-source dashboards",
+        "description": "The fastest way to get online or to modernise what you already have.",
+        "features": [
+          "Website: up to 5 pages with a custom responsive design",
+          "Redesign: a new look for your existing pages, with redirects to protect your SEO",
+          "Dashboard: 1 data source and up to 3 views",
+          "On-page SEO basics, deployment and SSL",
+          "2 weeks of post-launch support"
+        ]
+      },
+      "moderate": {
+        "name": "Moderate",
+        "fits": "Business websites, full redesigns and multi-source dashboards",
+        "description": "A complete solution built to rank, convert and grow with your business.",
+        "features": [
+          "Website: up to 15 pages with multi-language setup",
+          "Redesign: new structure, content migration and an SEO audit",
+          "Dashboard: up to 3 data sources, user roles and scheduled reports",
+          "Technical SEO, analytics and performance tuning",
+          "3 months of support"
+        ]
+      },
+      "complex": {
+        "name": "Complex",
+        "fits": "Web apps, online stores, platform rebuilds and analytics platforms",
+        "description": "Custom, integrated and built to scale with your business.",
+        "features": [
+          "Website: a custom web app or online store with accounts, payments and integrations",
+          "Redesign: a full rebuild with platform and data migration",
+          "Dashboard: data pipelines, real-time data and advanced analytics",
+          "Cloud architecture, security review and automated testing",
+          "Dedicated project lead",
+          "6 months of support"
+        ]
+      }
+    },
+    "choose": "Choose",
+    "oneOff": "one-off project",
+    "addons": {
+      "eyebrow": "Add-ons",
+      "title": "Level up any package",
+      "description": "Mix and match what your business needs. Prices are starting points and depend on scope.",
+      "items": [
+        {
+          "id": "language",
+          "name": "Extra language",
+          "description": "Translated pages, localised URLs and per-language SEO.",
+          "unit": "per language"
+        },
+        {
+          "id": "revamp",
+          "name": "Design revamp",
+          "description": "A fresh new look for your existing website: updated layouts, colours and typography.",
+          "unit": "onwards"
+        },
+        {
+          "id": "brand",
+          "name": "Logo and brand kit",
+          "description": "A logo, colour palette and typography to build the site around.",
+          "unit": "one-off"
+        },
+        {
+          "id": "cms",
+          "name": "CMS integration",
+          "description": "Connect a content management system so you can edit pages, text and images yourself.",
+          "unit": "one-off"
+        },
+        {
+          "id": "payments",
+          "name": "Payment gateway",
+          "description": "Accept cards and local payment methods securely on your site.",
+          "unit": "one-off"
+        },
+        {
+          "id": "seo",
+          "name": "One-off SEO",
+          "description": "A one-time SEO review of your website, with the improvements done once.",
+          "unit": "one-off"
+        }
+      ]
+    },
+    "consultation": {
+      "eyebrow": "Free consultation",
+      "title": "Let’s talk first. It’s on us.",
+      "description": "Not sure which package fits? Book a no-obligation call and we will help you choose. Here is exactly what you get:",
+      "includesTitle": "What is included",
+      "items": [
+        "A 30-minute video or phone call with a senior member of our team",
+        "A review of your goals, audience, competitors and current website",
+        "A recommended package with a ballpark estimate in your currency",
+        "A suggested sitemap and the key pages your business needs",
+        "Advice on features, domain, hosting and the right technology",
+        "A written summary and clear next steps within 2 business days",
+        "No obligation and no sales pressure"
+      ],
+      "cta": "Book a free consultation",
+      "note": "Free for businesses in Malaysia, Singapore and Hong Kong. Calls are scheduled in your local time."
+    },
+    "testimonials": {
+      "eyebrow": "Client stories",
+      "title": "Don’t take our word for it",
+      "description": "Feedback from businesses we have built websites for.",
+      "draft": "Draft: awaiting client approval",
+      "items": {
+        "cashflow": {
+          "quote": "Olzytech understood our product from the very first call. The new website explains Cashflow in seconds, and people can find our App Store and Google Play links straight away.",
+          "name": "Founder",
+          "role": "Cashflow"
+        },
+        "sgmathwizard": {
+          "quote": "The redesign made our brand feel far more trustworthy. Parents now see our teachers, our results and the free trial straight away, and signing up is simple.",
+          "name": "Director",
+          "role": "Singapore Math Wizard"
+        },
+        "juststayliving": {
+          "quote": "They turned our service into a clear, professional website. The quotation button and WhatsApp chat make it easy for property owners to get in touch with us.",
+          "name": "Founder",
+          "role": "Just Stay Living"
+        }
+      }
+    },
+    "faq": {
+      "title": "Pricing, answered straight",
+      "items": [
+        {
+          "question": "How do I know if my project is simple, moderate or complex?",
+          "answer": "Simple projects have a few pages or one data source. Moderate projects add a CMS, several languages or multiple data sources and user roles. Complex projects involve custom features, accounts, payments, integrations or large volumes of data. We confirm the level and a fixed quote in your free consultation."
+        },
+        {
+          "question": "Do you work with businesses in Singapore and Hong Kong?",
+          "answer": "Yes. We work remotely with SMEs and startups across Malaysia, Singapore and Hong Kong. Calls are held in your local time, and you are billed in your local currency."
+        },
+        {
+          "question": "Why do prices differ between countries?",
+          "answer": "Prices reflect local market rates and billing currency. The scope, quality and process are the same in every market."
+        },
+        {
+          "question": "How are projects billed?",
+          "answer": "Typically 40% to start, 40% at design sign-off and 20% on launch. Larger projects are billed by milestone."
+        },
+        {
+          "question": "What is not included in the package price?",
+          "answer": "Domain registration, third-party licences and paid hosting tiers are billed at cost, and applicable taxes are added. We will flag these during planning."
+        },
+        {
+          "question": "Can I upgrade later?",
+          "answer": "Yes. Start with a simple scope and move up to moderate or complex later. We design the foundations so you never have to rebuild."
+        },
+        {
+          "question": "What happens after launch?",
+          "answer": "Every level includes a support period (2 weeks, 3 months or 6 months). If you want ongoing help afterwards, we can agree a monthly support arrangement during your consultation."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Not sure where to start? We’ll point the way.",
+      "description": "Book a free consultation and we will recommend the right scope for your goals and budget.",
+      "primary": "Book a free consultation"
+    },
+    "custom": "Custom",
+    "customNote": "Tailored to your project and quoted after a free consultation",
+    "contactSales": "Contact Sales Support"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Got an idea? Let’s make it real.",
+      "description": "Share a few details and we will reply within one business day with next steps and a ballpark estimate."
+    },
+    "info": {
+      "title": "Prefer to skip the form?",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Hours",
+      "hoursValue": "Mon to Fri, 9:00 to 18:00 (MYT)",
+      "location": "Based in",
+      "locationValue": "Malaysia · working worldwide",
+      "responseTitle": "What happens next",
+      "steps": [
+        "We review your brief and reply within one business day.",
+        "A free 30-minute discovery call to align on goals.",
+        "You receive a clear proposal, timeline and fixed quote."
+      ]
+    },
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Aisha Rahman",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "company": "Company (optional)",
+      "companyPlaceholder": "Your company",
+      "service": "I'm interested in",
+      "choose": "Select…",
+      "serviceOptions": {
+        "design": "Website design",
+        "development": "Website development",
+        "fullservice": "End-to-end (requirement to deployment)",
+        "seo": "SEO & performance",
+        "other": "Something else"
+      },
+      "budget": "Budget",
+      "budgetOptions": {
+        "under2": "Under RM 2,000",
+        "2to5": "RM 2,000 to 5,000",
+        "5to15": "RM 5,000 to 15,000",
+        "over15": "RM 15,000+"
+      },
+      "message": "Project details",
+      "messagePlaceholder": "Tell us about your goals, timeline and anything we should know…",
+      "consent": "By sending this form you agree that we may contact you about your enquiry.",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "successTitle": "Message sent",
+      "successBody": "Thanks! We will be in touch within one business day.",
+      "errorGeneric": "Something went wrong. Please try again or email us directly.",
+      "errors": {
+        "name": "Please enter your name.",
+        "email": "Please enter a valid email address.",
+        "message": "Please tell us a little more (at least 10 characters).",
+        "service": "Please choose a service."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Websites engineered for tomorrow. Designed, developed and deployed end to end.",
+    "explore": "Explore",
+    "services": "Services",
+    "connect": "Connect",
+    "serviceLinks": [
+      "Website design",
+      "Website development",
+      "Deployment & hosting",
+      "SEO & performance"
+    ],
+    "rights": "All rights reserved.",
+    "madeIn": "Crafted in Malaysia",
+    "whatsappMessage": "Hi Olzytech, I'd like to know more about your website services."
+  }
+}
